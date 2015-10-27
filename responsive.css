@@ -1,0 +1,118 @@
+
+
+
+@media only screen and (max-width : 1411px) {
+
+	.button{
+		width:100%;
+	}
+
+	form{
+	/*display:none;*/
+}
+}
+
+
+
+
+@media only screen and (max-width : 768px) {
+button{
+		width:100%;
+		font-size: 1em;
+
+	}
+	
+}
+
+
+
+@media only screen and (max-width : 601px) {
+
+
+	h2,p{
+
+		width:100%;
+	}
+
+	h3{
+		font-size: 1.3em;
+	}
+
+
+	button{
+		width:100%;
+		font-size: 1em;
+	}
+
+
+	li:not(:last-child) {
+    padding-right: 5%;
+}
+
+form{
+	width:90%;
+}
+
+select {
+	width: 16%;
+}
+
+
+  }
+
+
+
+@media screen and (max-width : 600px){
+
+
+	h2,p{
+
+		width:99%;
+	}
+
+	h3{
+		font-size: 1.3em;
+	}
+
+
+	button{
+		width:100%;
+		font-size: 1em;
+
+	}
+
+	li:not(:last-child) {
+    padding-right: 5%;
+}
+
+form{
+width:95% !important;
+
+ }
+
+.text input{
+
+	width:95%;
+	margin-left: 7px;
+	margin-bottom:5px;
+}
+
+select{
+
+	width:47% !important;
+	margin-left: 6px;
+	
+}
+
+textarea{
+
+	margin-left: 1px;
+	width:90%;
+}
+
+
+}
+
+
+
+
